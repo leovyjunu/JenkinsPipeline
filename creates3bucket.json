@@ -8,9 +8,9 @@
     "Outputs": {
         "BucketName": {
             "Value": {
-                "Ref": "S3BucketNew"
+                "Ref": "S3Bucket"
             },
-            "Description": "S3BucketLeoTest"
+            "Description": "This is an S3 bucket created via Jenkins Pipeline"
         }
     }
 }
