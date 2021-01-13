@@ -10,7 +10,7 @@
             "Value": {
                 "Ref": "S3Bucket"
             },
-            "Description": "This is an AWS S3 bucket created via Jenkins Pipeline"
+            "Description": "This is an S3 bucket created via Jenkins Pipeline"
         }
     }
 }
